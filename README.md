@@ -1,5 +1,5 @@
 # Technical Test 
-This is Spring Boot based application to perform CRUD operations on a User using the In-Memory DB H2.
+This is Spring Boot based application to generate the loan payment plan for a given input.
 
 ## Getting Started
 These instructions will give you a brief about how to run the applicaiton.
